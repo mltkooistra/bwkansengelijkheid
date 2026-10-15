@@ -4,18 +4,12 @@
 
 ## Draaien
 
-Open een Anaconda-prompt in deze map en voer uit:
-
-```
-python spoor1_analyse.py
-```
-
-Het script leest standaard `O:\Projecten lopend\BW & kansengelijkheid\Data\Werkbestand BW en kansengelijkheid.sav`.
-Wil je een ander bestand gebruiken, geef dan het pad mee: `python spoor1_analyse.py "pad\naar\bestand.sav"`.
+Open **`spoor1_analyse.ipynb`** en draai alle cellen (Run All). Het pad naar de data staat in de eerste codecel (`path`), standaard `O:\Projecten lopend\BW & kansengelijkheid\Data\Werkbestand BW en kansengelijkheid.sav`.
 
 Daarna:
-1. Lees eerst **`spoor1_checks.txt`**. Daarin staan de kolommen die gevonden zijn, hoe antwoorden zijn gehercodeerd en de frequenties. Controleer vooral de stellingen, het netwerk ('weet ik niet' telt als 'nee') en de vergelijking met `Q_levenalgemeen`.
+1. Loop eerst de cellen onder **Variabelen opbouwen** na. De `=== ... ===`-checks laten zien welke kolommen zijn gevonden en hoe antwoorden zijn gehercodeerd. Controleer vooral de stellingen (ruw -> 1-5), het netwerk ('weet ik niet' telt als 'nee') en de kruistabel met `Q_levenalgemeen`.
 2. **`spoor1_factsheet_data.xlsx`** gaat naar de vormgever. Tabblad `0_Inhoud` noemt per tabblad de subvraag en een voorstel voor de visual, plus de definities.
+3. De `spoor1_*.png`-figuren zijn alleen om snel te checken, niet de eindfiguren.
 
 ## Tabbladen per subvraag
 
@@ -31,7 +25,7 @@ Daarna:
 
 `spoor1_open_antwoorden_INTERN.xlsx` bevat de open antwoorden ('andere zorgen voor de toekomst') per groep, bedoeld om citaten uit te kiezen. **Niet zo doorsturen**: check eerst of er herleidbare informatie in staat.
 
-## Definities (aan te passen bovenin het script)
+## Definities (aan te passen in de eerste codecel)
 
 - Tevreden = cijfer ≥ 7 voor 'leven in het algemeen' (`TEVREDEN_GRENS`)
 - Domein niet op orde = cijfer < 6 (`ONVOLDOENDE_GRENS`)
