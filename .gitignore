@@ -1,1 +1,7 @@
 Thumbs.db
+
+# archief met oude notebook/scripts (staat al in git-historie)
+_archief/
+
+# bevat open antwoorden van respondenten - nooit naar GitHub
+spoor1_open_antwoorden_INTERN.xlsx
