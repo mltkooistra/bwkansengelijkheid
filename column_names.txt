@@ -1,0 +1,321 @@
+Voornaam
+Reactiestatus
+Provincie
+Jaar
+Wat is uw postcode? (bv. 9640 PA)<br>
+<br>
+<em>Let op: 4 cijfers gevolgd door spatie en 2 hoofdletters</em>
+Jaar__2
+Leeftijd
+leefcat
+leefcat_weging
+opleiding3
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Geen o
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Basiso
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Lbo (b
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Vmbo
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Mavo (
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Mbo-1
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Havo-o
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Havo-b
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Mbo-2/
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Hbo (b
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Wetens
+Welke opleiding(en) heeft u afgerond? (Met diploma of getuigschrift)<br>
+<br>
+<em>Heeft u een andere opleiding afgerond, bijvoorbeeld in het buitenland, kies dan de meest vergelijkbare optie.</em><br>
+<br>
+<em>Meerdere antwoorden mogelijk</em> - Anders
+Geslacht
+Woont u in een koopwoning of huurwoning?
+Hoe kunt u uw huishouden het beste omschrijven?
+Volwassenen (18 jaar en ouder):
+Kinderen (jonger dan 18 jaar):
+Hoeveel geld komt er iedere maand (ongeveer) binnen op de rekening(en) binnen uw <u>huishouden</u>? Als u de precieze inkomsten niet weet, maak dan een schatting.<br>
+<br>
+<em>Bent u ZZP’er? Vul dan uw gemiddelde maandelijkse inkomen in na aftrek van
+Inkomencat
+Uit welke bron komt het grootste deel van het inkomen van uw huishouden?
+Heeft u in de afgelopen 12 maanden moeite gehad om van het inkomen van uw <u>huishouden</u> rond te komen?
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik werk
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik ben huisman of huisvrouw
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik ben (deels) arbeidsongeschikt
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik ben met pensioen
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik ben werkzoekend
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik volg onderwijs
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Ik ben vrijwilliger
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Wil ik niet zeggen
+In welke situatie(s) zit u? U mag meerdere antwoorden kiezen - Anders, namelijk:
+Aantal_absoluut
+weegfactor
+Aantal_gewogen
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw leven in het algemeen
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw leven in het algemeen
+Q_levenalgemeen
+Q9_leven_beter
+Q9_leven_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw financiële situatie (uw geldzaken)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw financiële situatie (uw geldzaken)
+Q_financieel
+Q10_financieel_beter
+Q10_financieel_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw lichamelijke gezondheid
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw lichamelijke gezondheid
+Q_fysiekegez
+Q10_fysiek_beter
+Q10_fysiek_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw psychische gezondheid
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw psychische gezondheid
+Q_psychgez
+Q10_mentaal_beter
+Q10_mentaal_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw werk en/of andere dagelijkse bezigheden
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw werk en/of andere dagelijkse bezigheden
+Q_werk
+Q10_werkofbezigheden_beter
+Q10_werkofbezigheden_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw hoeveelheid vrije tijd
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw hoeveelheid vrije tijd
+Q_vrijetijd
+Q10_vrijetijd_beter
+Q10_vrijetijd_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw opleidingskansen tot nu toe
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw opleidingskansen
+Q_oplkansen
+Q10_opleidingskansen_beter
+Q10_opleidingskansen_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw woning of woonruimte
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw woning of woonruimte
+Q_woning
+Q10_woonruimte_beter
+Q10_woonruimte_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw buurt of wijk (directe woonomgeving)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw buurt of wijk (directe woonomgeving)
+Q_buurt
+Q11_buurtwijk_beter
+Q11_buurtwijk_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Uw sociale contacten (familie, vrienden, kennissen etc.)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Uw sociale contacten (familie, vrienden, kennissen etc.)
+Q_sociaal
+Q11_socialecontacten_beter
+Q11_socialecontacten_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - De manier waarop mensen in uw buurt of wijk met elkaar omgaan
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - De manier waarop mensen in uw buurt of wijk met elkaar omgaan
+Q_omgang
+Q11_omgang_beter
+Q11_omgang_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - De veiligheid in uw buurt of wijk
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - De veiligheid in uw buurt of wijk
+Q_veiligheid
+Q11_veiligheid_beter
+Q11_veiligheid_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Het groen en de natuur in de omgeving
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Het groen en de natuur in de omgeving
+Q_groen
+Q11_groenmilieu_beter
+Q11_groenmilieu_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - De milieukwaliteit in de omgeving (zoals lucht, water, bodem)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - De milieukwaliteit in de omgeving (zoals lucht, water, bodem)
+Q_milieukwali
+Q11_milieukwaliteit_beter
+Q11_milieukwaliteit_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - De bereikbaarheid van plekken die voor u belangrijk zijn (bijvoorbeeld supermarkt, werk of opleiding, openbaar vervoer)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - De bereikbaarheid van plekken die voor u belangrijk zijn (bijvoorbeeld supermarkt, werk of opleiding, openbaar vervoer)
+Q_bereikbaar
+Q11_bereikbaarheid_beter
+Q11_bereikbaarheid_slechter
+Kunt u op een schaal van 1 tot 10 aangeven hoe tevreden u bent met: - Het culturele aanbod in de omgeving (zoals film, theater, musea)
+Hoe denkt u dat het de komende 5 jaar met de volgende onderwerpen zal gaan? - Het culturele aanbod in de omgeving (zoals film, theater, musea)
+Q_cultuur
+Q11_cultureelaanbod_beter
+Q11_cultureelaanbod_slechter
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb een slechte gezondheid
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik leef ongezond
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb weinig vertrouwen in de zorg
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ziekte komt in mijn familie veel voor
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik krijg niet de zorg of hulp die ik nodig
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb een slechte gezondheid
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik leef ongezond
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb weinig vertrouwen in de zorg
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ziekte komt in mijn familie veel voor
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik krijg niet de zorg of hulp die ik nodig heb
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw lichamelijke gezondheid slechter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb een goede gezondheid
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik leef gezond
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb veel vertrouwen in de zorg
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ziekte komt in mijn familie weinig voor
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik krijg de zorg of hulp die ik nodig heb
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw lichamelijke gezondheid hetzelfde blijft of beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb een goede gezondheid
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik leef gezond
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik heb veel vertrouwen in de zorg
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ziekte komt in mijn familie weinig voor
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Ik krijg de zorg of hulp die ik nodig heb
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw lichamelijke gezondheid beter wordt, wat zijn daarvoor de belangrijkste redenen? (niet verplicht)  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is niet passend
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is niet veilig
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik weet niet of ik in mijn woning kan blijven
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een tijdelijk huurcontract
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet verhuizen als ik dat wil
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is van slechte kwaliteit
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik weet niet of ik de woonlasten kan blijven betalen
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik ben niet tevreden over de buurt of de plek waar ik woon
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik voel mij niet prettig bij de mensen met wie ik samenwoon
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik woon in het aardbevingsgebied
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw woonsituatie hetzelfde blijft of slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk…
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is niet passend
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is niet veilig
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik weet niet of ik in mijn woning kan blijven
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een tijdelijk huurcontract
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet verhuizen als ik dat wil
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn woning is van slechte kwaliteit
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik weet niet of ik de woonlasten kan blijven betalen
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik ben niet tevreden over de buurt of de plek waar ik woon
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik voel mij niet prettig bij de mensen met wie ik samenwoon
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik woon in het aardbevingsgebied
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw woonsituatie slechter wordt, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk…
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb geen of weinig vrienden
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb geen goede band met mijn familie
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik vind het moeilijk om nieuwe vrienden te maken
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet op mijn vrienden rekenen
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet op mijn familie rekenen
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw sociale contacten hetzelfde blijven of slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb geen of weinig vrienden
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb geen goede band met mijn familie
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik vind het moeilijk om nieuwe vrienden te maken
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet op mijn vrienden rekenen
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik kan niet op mijn familie rekenen
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft aan dat u denkt dat uw sociale contacten slechter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk:
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een goede band met mijn vrienden
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een goede band met mijn familie
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb voldoende mensen om mij heen
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik maak makkelijk nieuwe vrienden
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn vrienden staan altijd voor mij klaar
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn familie staan altijd voor mij klaar
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft dat u denkt dat uw sociale contacten hetzelfde blijven of beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk…
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een goede band met mijn vrienden
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb een goede band met mijn familie
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik heb voldoende mensen om mij heen
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Ik maak makkelijk nieuwe vrienden
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn vrienden staan altijd voor mij klaar
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Mijn familie staan altijd voor mij klaar
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Weet ik niet/ Wil ik niet zeggen
+U geeft dat u denkt dat uw sociale contacten beter worden, wat zijn daarvoor de belangrijkste redenen?  (Meerdere antwoorden mogelijk) - Anders, namelijk…
+Zijn er andere onderwerpen waarover u zorgen voor de toekomst heeft, en waarom?
+Hoeveel invloed denkt u dat u heeft op: - Uw leven in het algemeen
+Hoeveel invloed denkt u dat u heeft op: - Uw financiële situatie (uw geldzaken)
+Hoeveel invloed denkt u dat u heeft op: - Uw lichamelijke gezondheid
+Hoeveel invloed denkt u dat u heeft op: - Uw psychische gezondheid
+Hoeveel invloed denkt u dat u heeft op: - Uw werk en/of andere dagelijkse bezigheden
+Hoeveel invloed denkt u dat u heeft op: - Uw hoeveelheid vrije tijd
+Hoeveel invloed denkt u dat u heeft op: - Uw woning of woonruimte
+Hoeveel invloed denkt u dat u heeft op: - Uw buurt of wijk (directe woonomgeving)
+Hoeveel invloed denkt u dat u heeft op: - Uw sociale contacten (familie, vrienden, kennissen etc.)
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Uw huishouden
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Uw boodschappen
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Vervoer (bijvoorbeeld u met de auto ergens naartoe brengen)
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Geld aan u te lenen
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Een luisterend oor / emotionele steun bieden
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Een (tijdelijke) plek om te wonen
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Het overnemen van uw zorgtaken (bijvoorbeeld mantelzorg geven, zorg voor uw kinderen of huisdieren overnemen)
+Is er iemand (bijvoorbeeld een partner, familielid, vriend of kennis) die u zou kunnen helpen met: - Uzelf te verzorgen
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Het aanvragen van subsidies en vergoedingen
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Politiek en inspraak
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Juridische zaken
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Geldzaken/ administratie
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Het kopen van een woning
+Zijn er mensen in uw omgeving bij wie u terechtkunt voor informatie of advies over de volgende onderwerpen? - Het kiezen van een opleiding of studie
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Gezondheidszorg
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Mentale problemen (bijvoorbeeld stress, somberheid)
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Geldhulp van de overheid
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Het vinden van een (nieuwe) baan of vrijwilligerswerk
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Het vinden van een opleiding of cursus
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Gezonder leven (bijvoorbeeld stoppen met roken of meer bewegen)
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Het vinden van een (nieuwe) woning
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Hulp van organisaties zoals de gemeente of de politie
+Ik weet waar of bij welke organisaties ik terecht kan als ik hulp nodig heb bij: - Juridische hulp (bijvoorbeeld een advocaat of rechtsbijstand)
+Kunt u aangeven in hoeverre u het eens bent met de volgende stellingen: - In Nederland heeft iedereen evenveel kansen op een goed leven
+Kunt u aangeven in hoeverre u het eens bent met de volgende stellingen: - Ik heb zelf minstens evenveel kansen gekregen als de meeste andere mensen
+Kunt u aangeven in hoeverre u het eens bent met de volgende stellingen: - Ik heb het gevoel dat ik zelf veel invloed heb op hoe mijn leven verloopt
+Kunt u aangeven in hoeverre u het eens bent met de volgende stellingen: - Ik neem meestal zelf beslissingen die belangrijk zijn voor mijn toekomst
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb schulden
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb een tijdelijk contract (voor werk)
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb geen vast inkomen
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik krijg een uitkering
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Mijn inkomen is niet elke maand hetzelfde
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb moeite om rond te komen
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik maak mij vaak zorgen over mijn financiële situatie
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik maak mij zorgen over het betalen van mijn vaste lasten
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb weinig spaargeld
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Mijn inkomen is de afgelopen tijd lager geworden
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Mijn woonsituatie is onzeker
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Geen van bovenstaande situaties
+Welke van de volgende situaties zijn op u van toepassing?  (Meerdere antwoorden mogelijk) - Wil ik niet zeggen
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Mijn gezondheid zorgt soms voor onzekerheid in mijn dagelijks leven
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb mentale klachten die mij onzeker maken
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb spanningen of problemen in mijn gezin of relatie
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik zou graag willen verhuizen maar dat kan door mijn omstandigheden niet
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik heb vaak moeite met het bereiken van belangrijke plekken
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik voel me niet om mijn gemak in de buurt waarin ik woon
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik ben regelmatig bang om in onveilige situaties terecht te komen
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Ik maak me regelmatig zorgen om het milieu of de omgeving (bijvoorbeeld overstromingen of aardbevingen)
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Geen van bovenstaande situaties
+Welke van de volgende situaties is op u van toepassing?  (Meerdere antwoorden mogelijk) - Wil ik niet zeggen
+Konden uw ouders of verzorgers over het algemeen goed rondkomen toen u kind was?
+Hadden uw ouders of verzorgers voldoende tijd en aandacht voor u toen u kind was?
+Kon u als volwassene (vanaf 25 jaar) meestal goed rondkomen?
+_bronbestand
