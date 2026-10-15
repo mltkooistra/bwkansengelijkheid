@@ -22,6 +22,9 @@ Daarna:
 | 5. Is zekerheid nu iets anders dan zekerheid over de toekomst? | 5a–5c |
 | 6. Invloed / grip (agency) | 6a invloed per domein · 6b 'vastzitten' (onvoldoende én geen invloed) · 6c buffert grip/netwerk tegen pessimisme? · 6d regressie toekomstverwachting |
 | Extra verhalen | 7a uitkomsten naar achtergrond en jeugd ('kansenkaart') · 7b/7c redenen achter pessimisme/optimisme (gezondheid, wonen, sociaal) |
+| Extra: bereik en doorwerking | 8a weten mensen mét een probleem waar ze hulp kunnen vinden? · 8b werkt de jeugd door, en loopt dat via de huidige situatie? |
+
+Figuren per groep (in het notebook, ook als PNG): profiel achtergrond, profiel jeugd/financieel, onzekerheid/netwerk/hulp, domeinscores (heatmap), pessimisme per domein, invloed per groep, en 'wat kenmerkt Ontevreden & pessimistisch' (index t.o.v. totaal).
 
 `spoor1_open_antwoorden_INTERN.xlsx` bevat de open antwoorden ('andere zorgen voor de toekomst') per groep, bedoeld om citaten uit te kiezen. **Niet zo doorsturen**: check eerst of er herleidbare informatie in staat.
 
